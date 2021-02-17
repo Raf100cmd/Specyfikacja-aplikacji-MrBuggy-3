@@ -1,1 +1,1 @@
-# Specyfikacja-aplikacji-MrBuggy-3
+# Specyfikacja_aplikacji_MrBuggy_3
